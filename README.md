@@ -4,11 +4,11 @@ An intelligent Retrieval-Augmented Generation (RAG) chatbot designed to answer m
 It combines:
 
 FAISS for vector search
----
+
 Hugging Face Transformers for embeddings + language model
-----
+
 Flask API to serve the chatbot
-----
+
 ⚠️ Disclaimer: This chatbot is not a substitute for professional medical advice. Always consult a healthcare provider for real medical concerns.
 
 
