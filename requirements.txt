@@ -1,0 +1,28 @@
+
+langchain-text-splitters
+faiss-cpu
+pypdf
+torch
+tqdm
+
+# Web framework
+flask
+python-dotenv
+
+# LangChain & vector store
+langchain>=0.1.16
+langchain-community>=0.0.36
+langchain-huggingface>=0.0.3
+faiss-cpu
+
+# HuggingFace models
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+
+# Utilities
+numpy
+pandas
+
+# Optional: if you log or serve APIs better
+uvicorn
+gunicorn
