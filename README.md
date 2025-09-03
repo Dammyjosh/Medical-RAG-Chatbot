@@ -57,3 +57,19 @@ python app.py
 The API will be available at:
 
 http://127.0.0.1:5000 or localhost:5000
+
+
+
+---
+## Run on docker
+
+## 1. pull image from dockerhub 
+ docker pull damton/med-rag-chatbot
+
+
+## 2.Run the container locally
+docker run -p 5000:5000 damton/med-rag-chatbot
+
+Then open your browser on:
+
+http://localhost:5000
